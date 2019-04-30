@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-Mar-2018, 3:05:41 PM
+    Author     : vince
+*/
+.background{
+}
+.tab-pane *.tab-header-background {
+    -fx-opacity: 0;
+}
+.tab{
+    border-radius: 25px;
+}
+.menu{
+    
+}
+.urlBarar{
+    -fx-min-width: 200%;
+    -fx-border-width: 3px;
+}
+.buttons{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
